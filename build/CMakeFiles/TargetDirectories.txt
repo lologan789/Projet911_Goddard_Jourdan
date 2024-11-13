@@ -1,0 +1,3 @@
+/Users/mouxyman/Master2/info911/projet/build/CMakeFiles/camera.dir
+/Users/mouxyman/Master2/info911/projet/build/CMakeFiles/edit_cache.dir
+/Users/mouxyman/Master2/info911/projet/build/CMakeFiles/rebuild_cache.dir
