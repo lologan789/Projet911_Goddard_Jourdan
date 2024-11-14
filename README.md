@@ -7,8 +7,11 @@ Ce projet utilise OpenCV pour effectuer une reconnaissance d'objets dans une vid
 ## Fonctionnalités principales
 
 **Capture vidéo en temps réel :** Utilisation de la caméra pour capturer des images en temps réel.
+
 **Histogrammes de couleurs :** Calcul des histogrammes de couleurs pour les blocs d'image et les objets.
+
 **Classification d'objets :** Classement des blocs d'image en fonction de la similarité de leurs histogrammes de couleurs avec des objets pré-définis.
+
 **Ajout dynamique d'objets :** Possibilité d'ajouter de nouveaux objets avec leurs propres histogrammes et couleurs.
 
 ## Utilisation
