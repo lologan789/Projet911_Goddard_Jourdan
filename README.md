@@ -17,12 +17,19 @@ Ce projet utilise OpenCV pour effectuer une reconnaissance d'objets dans une vid
 ## Utilisation
 
 **Commandes** 
+
 q ou Esc : Quitter l'application.
+
 f : Geler/dégeler l'image actuelle pour une analyse statique.
+
 v : Calculer et afficher la distance entre les histogrammes de couleurs de la partie gauche et droite de l'image.
+
 b : Calculer les histogrammes de couleurs pour l'arrière-plan.
+
 a : Calculer et ajouter un histogramme pour une zone d'objet spécifique. (Ne fonctionne plus dans la derniere version)
+
 n : Ajouter un nouvel objet avec son histogramme et une couleur aléatoire.
+
 r : Activer le mode de reconnaissance.
 
 ## Mode de fonctionnement
